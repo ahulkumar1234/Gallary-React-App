@@ -1,5 +1,7 @@
 import axios from "axios"
 import { useEffect, useState } from "react"
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import "react-lazy-load-image-component/src/effects/blur.css";
 
 
 const Gallary = () => {
@@ -8,7 +10,7 @@ const Gallary = () => {
 
     const [index, setindex] = useState(1)
 
-    const ApiUrl = `https://picsum.photos/v2/list?page=${index}&limit=30`
+    const ApiUrl = `https://picsum.photos/v2/list?page=${index}&limit=10`
 
     const getData = async () => {
         const response = await axios.get(ApiUrl)
@@ -28,8 +30,8 @@ const Gallary = () => {
         PrintUserData = userData.map((elem, idx) => {
             return <div key={idx}>
                 <a href={elem.url} target="_blank">
-                    <div className="h-50 w-50 bg-white overflow-hidden rounded">
-                        <img className="h-full w-full object-cover" src={elem.download_url} alt="" />
+                    <div className="h-60 w-96 bg-white overflow-hidden rounded">
+                        <LazyLoadImage className="h-full w-full object-cover block" src={elem.download_url} alt="" effect="blur"/>
                     </div>
                     <h2 className="font-bold">{elem.author}</h2>
                 </a>

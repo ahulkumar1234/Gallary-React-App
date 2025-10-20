@@ -3,6 +3,7 @@ import Footer from './components/Footer'
 import Gallary from './components/Gallary'
 import Header from './components/Header'
 
+
 function App() {
 
   return (
