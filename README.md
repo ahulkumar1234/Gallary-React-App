@@ -6,8 +6,9 @@ The project displays a collection of images in a clean grid layout with fullscre
 ---
 
 ## 🔗 Live Demo
-👉 **Live Website:** https://your-live-demo-link-here.com  
-👉 **GitHub Repository:** https://github.com/your-username/gallery-react-app
+👉 **Live Website:** https://gallary-react-4d8nq10oo-ahulkumar1234s-projects.vercel.app
+  
+👉 **GitHub Repository:** https://github.com/ahulkumar1234/Gallary-React-App?tab=readme-ov-file
 
 ---
 
@@ -110,7 +111,7 @@ git commit -m "Added new feature"
 git push origin feature-name
 
 
-## 🧑 Author
+## 🧑 Author 
 
 **Rahul Kumar**  
 💼 Full Stack Web Developer (MERN)  
