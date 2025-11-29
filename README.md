@@ -109,26 +109,25 @@ git commit -m "Added new feature"
 # Push branch
 git push origin feature-name
 
-🧑 Author
 
-Rahul Kumar
-💼 Full Stack Web Developer (MERN)
-🔗 Portfolio: https://your-portfolio-link-here
+## 🧑 Author
 
-🔗 LinkedIn: https://your-linkedin-link-here
+**Rahul Kumar**  
+💼 Full Stack Web Developer (MERN)  
 
-🔗 GitHub: https://github.com/your-username
+🔗 Portfolio: [My Portfolio](https://ahulkumar1234.github.io/My-Portfolio/)  
+
+🔗 LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-3990b618b)  
+
+🔗 GitHub: [ahulkumar1234](https://github.com/ahulkumar1234)
 
 
 
-📜 License
+## 📜 License
 
-This project is released under the MIT License.
+This project is released under the **MIT License**.  
 You are free to use, modify, and distribute this software with proper credit.
 
-
-
-
 ---
-⭐ If you like this project, don't forget to star the repository!
 
+⭐ If you like this project, don't forget to **star the repository**!
