@@ -53,13 +53,13 @@ The project displays a collection of images in a clean grid layout with fullscre
 
 ## 🖼 Screenshots
 
-> 🔽 Replace the link below with your own screenshot stored in your repo
+![Gallery App Main Page](https://raw.githubusercontent.com/ahulkumar1234/Gallary-React-App/main/public/images/Gallary%20main%20page.png)
 
-![Gallery App Main Page](../gallary/public/images/Gallary%20main%20page.png)
 
-![Gallery Bottom](../gallary/public/images/full%20page.png)
+![Gallery Bottom](https://raw.githubusercontent.com/ahulkumar1234/Gallary-React-App/main/public/images/full%20page.png)
 
-![Gallery Loading](../gallary/public/images/loading.png)
+
+![Gallery Loading](https://raw.githubusercontent.com/ahulkumar1234/Gallary-React-App/main/public/images/loading.png)
 
 ---
 
@@ -132,9 +132,3 @@ You are free to use, modify, and distribute this software with proper credit.
 ---
 ⭐ If you like this project, don't forget to star the repository!
 
-If you want, I can also generate:
-✔ README with **multiple screenshots gallery section**  
-✔ README with **dark theme preview + GIF demo**  
-✔ A short **GitHub project description** for top results in search  
-
-Just tell me 😊 🚀
