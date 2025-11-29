@@ -111,7 +111,7 @@ git commit -m "Added new feature"
 git push origin feature-name
 
 
-## 🧑 Author 
+## 🧑 Developer 
 
 **Rahul Kumar**  
 💼 Full Stack Web Developer (MERN)  
